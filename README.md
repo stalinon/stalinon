@@ -2,9 +2,7 @@
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><td valign="top" width="33%">
 
 
 
@@ -42,13 +40,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
 </div>
 
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=stalinon&show_icons=true&count_private=true&hide_border=true" align="left" />
 
@@ -56,7 +52,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalinon&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
